@@ -1,0 +1,142 @@
+[
+    {
+        "pageCount": 97,
+        "firstPageId": 1,
+        "lastPageId": 97,
+        "firstPage": null,
+        "lastPage": 78,
+        "partName": "المقدمة",
+        "partFolderName": "المقدمة",
+        "partPath": "226\/5226\/المقدمة"
+    },
+    {
+        "pageCount": 610,
+        "firstPageId": 98,
+        "lastPageId": 707,
+        "firstPage": 1,
+        "lastPage": 610,
+        "partName": "1",
+        "partFolderName": "001",
+        "partPath": "226\/5226\/001"
+    },
+    {
+        "pageCount": 506,
+        "firstPageId": 708,
+        "lastPageId": 1213,
+        "firstPage": 1,
+        "lastPage": 506,
+        "partName": "2",
+        "partFolderName": "002",
+        "partPath": "226\/5226\/002"
+    },
+    {
+        "pageCount": 546,
+        "firstPageId": 1214,
+        "lastPageId": 1759,
+        "firstPage": null,
+        "lastPage": 1049,
+        "partName": "3",
+        "partFolderName": "003",
+        "partPath": "226\/5226\/003"
+    },
+    {
+        "pageCount": 520,
+        "firstPageId": 1760,
+        "lastPageId": 2279,
+        "firstPage": null,
+        "lastPage": 1568,
+        "partName": "4",
+        "partFolderName": "004",
+        "partPath": "226\/5226\/004"
+    },
+    {
+        "pageCount": 495,
+        "firstPageId": 2280,
+        "lastPageId": 2774,
+        "firstPage": null,
+        "lastPage": 2060,
+        "partName": "5",
+        "partFolderName": "005",
+        "partPath": "226\/5226\/005"
+    },
+    {
+        "pageCount": 553,
+        "firstPageId": 2775,
+        "lastPageId": 3327,
+        "firstPage": 2061,
+        "lastPage": 2613,
+        "partName": "6",
+        "partFolderName": "006",
+        "partPath": "226\/5226\/006"
+    },
+    {
+        "pageCount": 512,
+        "firstPageId": 3328,
+        "lastPageId": 3839,
+        "firstPage": 2614,
+        "lastPage": 3125,
+        "partName": "7",
+        "partFolderName": "007",
+        "partPath": "226\/5226\/007"
+    },
+    {
+        "pageCount": 606,
+        "firstPageId": 3840,
+        "lastPageId": 4445,
+        "firstPage": null,
+        "lastPage": 3730,
+        "partName": "8",
+        "partFolderName": "008",
+        "partPath": "226\/5226\/008"
+    },
+    {
+        "pageCount": 661,
+        "firstPageId": 4446,
+        "lastPageId": 5106,
+        "firstPage": 3729,
+        "lastPage": 4389,
+        "partName": "9",
+        "partFolderName": "009",
+        "partPath": "226\/5226\/009"
+    },
+    {
+        "pageCount": 637,
+        "firstPageId": 5107,
+        "lastPageId": 5743,
+        "firstPage": 4388,
+        "lastPage": 5024,
+        "partName": "10",
+        "partFolderName": "010",
+        "partPath": "226\/5226\/010"
+    },
+    {
+        "pageCount": 709,
+        "firstPageId": 5744,
+        "lastPageId": 6452,
+        "firstPage": null,
+        "lastPage": 5730,
+        "partName": "11",
+        "partFolderName": "011",
+        "partPath": "226\/5226\/011"
+    },
+    {
+        "pageCount": 4,
+        "firstPageId": 6453,
+        "lastPageId": 6456,
+        "firstPage": 1,
+        "lastPage": 4,
+        "partName": "مقدمةج‏12",
+        "partFolderName": "مقدمةج‏12",
+        "partPath": "226\/5226\/مقدمةج‏12"
+    },
+    {
+        "pageCount": 74,
+        "firstPageId": 6457,
+        "lastPageId": 6530,
+        "firstPage": 1,
+        "lastPage": 556,
+        "partName": "12",
+        "partFolderName": "012",
+        "partPath": "226\/5226\/012"
+    }
+]
