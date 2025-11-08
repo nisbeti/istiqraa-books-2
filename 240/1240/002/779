@@ -1,0 +1,4 @@
+<div class="nass margin-top-10"> <p><span id="p1" class="anchor"></span>ومحمد مجهول.<a href="#p1" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p>
+<p><span class="anchor" id="p2"></span>وكذلك يحيى بن عقيل عن يحيى بن يعمر.<a href="#p2" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p>
+<p><span class="anchor" id="p3"></span>ورواه الوليد بن كثير عن محمد بن جعفر عن الزبير، وتارة يرويه عن محمد بن عباد بن جعفر.<a href="#p3" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p>
+<p><span class="anchor" id="p4"></span>ومحمد بن جعفر بن الزبير يرويه تارة عن عبيد الله بن عبد الله بن عمر، وتارة يرويه عن عبد الله بن عبد الله.<a href="#p4" class="btn_tag btn btn-sm"><span class="text-gray fa fa-copy"></span></a></p> </div>
